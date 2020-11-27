@@ -6,7 +6,7 @@
 * 🏢 a Technical Educator at **[Shopify](https://shopify.ca).**
 * 💻 helping people from underrepresented groups break into the tech industry through **[Refactoring Tech](https://refactoring.tech).**
 * creating and facilitating technical workshops for university students across North America.
-* and more where you can read about on my **[website](https://rhcreative.me).**
+* and more that you can read about on my **[website](https://rhcreative.me).**
 
 ### i'm also...
 
