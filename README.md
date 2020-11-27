@@ -15,5 +15,5 @@
 - 👯 looking to collaborate on projects focused using technology to drive social impact.
 - 💬 open to talk about all things frontend.
 - 📫 open to connect on [twitter](https://twitter.com/ritarenee15), [linkedin](https://linkedin.com/in/rita-hill), or by [email](mailto:rita@rhcreative.me).
-- 😄 identified by the pronouns: she/her/hers.
+- 😄 identify by the pronouns she/her/hers.
 
