@@ -2,6 +2,8 @@
 
 **and I'm a software engineer based out of richmond, virginia.**
 
+*my pronouns are she/her/hers.*
+
 ### i'm currently...
 * 🏢 a technical educator at **[shopify](https://shopify.ca).**
 * 💻 helping people from underrepresented groups break into the tech industry through **[refactoring tech](https://refactoring.tech).**
@@ -14,6 +16,5 @@
 - 🌱 (re)learning react + rails.
 - 👯 looking to collaborate on projects focused using technology to drive social impact.
 - 💬 open to talk about all things frontend.
-- 📫 open to connect on [twitter](https://twitter.com/ritarenee15), [linkedin](https://linkedin.com/in/rita-hill), or by [email](mailto:rita@rhcreative.me).
-- 😄 identify by the pronouns she/her/hers.
+- 📫 open to connect on [twitter](https://twitter.com/ritarenee15), [linkedin](https://linkedin.com/in/rita-hill), or by [email](mailto:rita@rhcreative.me)
 
