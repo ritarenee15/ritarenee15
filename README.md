@@ -4,7 +4,7 @@
 
 *my pronouns are she/her/hers.*
 
-### i'm currently...
+### i am...
 * 🏢 a technical educator at **[shopify](https://shopify.ca).**
 * 💻 helping people from underrepresented groups break into the tech industry through **[refactoring tech](https://refactoring.tech).**
 * 👩🏾‍🏫 creating and facilitating technical workshops for university students across north america.
