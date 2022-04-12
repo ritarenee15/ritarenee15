@@ -13,7 +13,7 @@
 ### i'm also...
 
 - 🔭 working on ruby + python introductory workshops.
-- 🌱 (re)learning react + rails.
+- 🌱 learning more about react + rails.
 - 👯 looking to collaborate on projects focused using technology to drive social impact.
 - 💬 open to talk about all things frontend.
 - 📫 open to connect on [twitter](https://twitter.com/ritarenee15), [linkedin](https://linkedin.com/in/rita-hill), or by [email](mailto:rita@rhcreative.me)
