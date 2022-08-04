@@ -5,7 +5,7 @@
 *my pronouns are she/her/hers.*
 
 ### i am...
-* 🏢 a technical educator at **[shopify](https://shopify.ca).**
+* 🏢 the Program Manager for **[New Relic](https://newrelic.com)'s Student Edition.**
 * 💻 helping people from underrepresented groups break into the tech industry through **[refactoring tech](https://refactoring.tech).**
 * 👩🏾‍🏫 creating and facilitating technical workshops for university students across north america.
 * 🌐 and more that you can read about on my **[website](https://rhcreative.me).**
